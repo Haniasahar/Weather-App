@@ -1,9 +1,9 @@
-# 🌦️ WeatherNow - Real-time Weather App
+# 🌦️ WeatherNow - Real time Weather App
 
 A responsive weather application that fetches and displays current weather data for any city worldwide using a weather API.
 This is the project which I made during my BANO QABIL course.
 
-![Weather App Live Demo](https://haniasahar.github.io/Weather-App/)
+<a href="https://haniasahar.github.io/Weather-App"/> Weather App Live Demo</a>
 
 ## ✨ Features
 
