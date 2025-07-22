@@ -28,6 +28,7 @@ OpenWeatherMap API
 
 ## 🚀 Getting Started
 **Prerequisites**
+
 • API key from your weather service provider
 • Node.js (v16+ recommended)
 
@@ -39,6 +40,7 @@ npm install
 ```
 
 **Configuration**
+
 Create .env file in root directory:
 
 ```env
@@ -69,9 +71,13 @@ async function fetchWeather(city) {
 ```
 
 • Responsive Design Approach
+
 • Mobile-first CSS with media queries
+
 • Flexible grid layouts
+
 • Dynamic font sizing (rem units)
+
 • Adaptive component rendering
 
 ## 📱 Responsive Breakpoints
