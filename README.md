@@ -83,17 +83,17 @@ async function fetchWeather(city) {
 ## 📱 Responsive Breakpoints
 `css`
 
-/* Mobile (default) */
+- /* Mobile (default) */
 
 .container { padding: 1rem; }
 
-/* Tablet */
+- /* Tablet */
 
 @media (min-width: 768px) {
   .container { padding: 2rem; }
 }
 
-/* Desktop */
+- /* Desktop */
 
 @media (min-width: 1024px) {
   .container { max-width: 1200px; margin: 0 auto; }
