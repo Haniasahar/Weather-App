@@ -3,7 +3,7 @@
 A responsive weather application that fetches and displays current weather data for any city worldwide using a weather API.
 This is the project which I made during my BANO QABIL course.
 
-<a href="https://haniasahar.github.io/Weather-App"/> Weather App Live Demo</a>
+### <a href="https://haniasahar.github.io/Weather-App"/> Weather App Live Demo</a>
 
 ## ✨ Features
 
@@ -100,7 +100,7 @@ async function fetchWeather(city) {
 
 - Loading Indicator - During API fetch
 
-🌟 Upcoming Features
+## 🌟 Upcoming Features
 - 5-day forecast
 
 - Geolocation detection
